@@ -1,6 +1,8 @@
-J'essaie de faire du dev en tout genre, mais pour l'instant je me focalise sur le web ( J'ai mes bases en CSS, je métrise le html, et jessaie d'apprendre le Javascript )
-Je vais ( Bientôt je l'éspère ) créer une site web appelée "Time waster"
+J'essaie de faire du dev en tout genre, mais pour l'instant je me focalise sur le web 💻( J'ai mes bases en CSS, je métrise le html, et jessaie d'apprendre le Javascript )
+Je vais ( Bientôt je l'éspère ) créer une site web appelée "Time waster", dessus je mettrais tout ce que vous voulez 👨‍💻... (si je suis d'accord évidement)
 
+Bon... je vais arreter de perdre du temps maintenant... j'ai un site web a créer ( J'ai un peu la flemme 😅 )
+A plus !
 <!--
 **DodgyX/DodgyX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
