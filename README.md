@@ -1,4 +1,5 @@
-### Hi there 👋
+J'essaie de faire du dev en tout genre, mais pour l'instant je me focalise sur le web ( J'ai mes bases en CSS, je métrise le html, et jessaie d'apprendre le Javascript )
+Je vais ( Bientôt je l'éspère ) créer une site web appelée "Time waster"
 
 <!--
 **DodgyX/DodgyX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
